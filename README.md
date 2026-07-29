@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.jpeg" alt="Rishabh Singh" width="100%">
+  <img src="./profile-banner.jpeg" alt="Rishabh Singh" width="800">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
