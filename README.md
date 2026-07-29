@@ -4,93 +4,89 @@
 
 ### Full-Stack Developer • AI Enthusiast • B.Tech CSE @ ABES Engineering College
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Enthusiast;C%2B%2B+Programmer;Building+Real-World+Projects" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;C%2B%2B+Programmer;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/pixelrishabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 B.Tech in Computer Science & Engineering at **ABES Engineering College**
-
-💻 Passionate about Full-Stack Development
-
-🤖 Currently exploring AI & Machine Learning
-
-🚀 Building projects that solve real-world problems
-
-📚 Learning something new every day
+* 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering at **ABES Engineering College**
+* 💻 **Focus:** Passionate about Full-Stack Web Development & Modern Architecture
+* 🤖 **Exploring:** Currently diving deep into Artificial Intelligence & Machine Learning
+* 🚀 **Mission:** Building impactful, real-world solutions through clean code
+* 📚 **Mindset:** Constantly learning, experimenting, and growing every day
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel" alt="Tech Stack Icons" />
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pixelrishabh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrishabh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pixelrishabh&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pixelrishabh&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrishabh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-</p>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=pixelrishabh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚀 HackHub | AI-powered hackathon platform |
-| 🛒 Fresh Basket | MERN grocery e-commerce platform |
-| 💰 SmartSpend AI | AI expense management system |
-| 📚 StudyKeda | Learning platform for students |
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Featured Projects
 
-<p align="center">
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| 🚀 **HackHub** | AI-powered hackathon organization & management platform | `React` `Node.js` `AI` | [Code](https://github.com/pixelrishabh) |
+| 🛒 **Fresh Basket** | Full-stack MERN grocery e-commerce store with secure payments | `React` `Node.js` `MongoDB` | [Code](https://github.com/pixelrishabh) |
+| 💰 **SmartSpend AI** | Intelligent expense tracker with AI-driven budget analytics | `Python` `React` `AI` | [Code](https://github.com/pixelrishabh) |
+| 📚 **StudyKeda** | Collaborative learning platform for students and educators | `MERN Stack` | [Code](https://github.com/pixelrishabh) |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/pixelrishabh">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-
+&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
