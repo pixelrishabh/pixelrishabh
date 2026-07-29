@@ -1,88 +1,96 @@
-<p align="center">
-  <img src="./profile-banner.jpeg" alt="Rishabh Singh" width="800">
+<div align="center">
+
+# Hi 👋, I'm Rishabh Singh
+
+### Full-Stack Developer • AI Enthusiast • B.Tech CSE @ ABES Engineering College
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Enthusiast;C%2B%2B+Programmer;Building+Real-World+Projects" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-
-<h3 align="center">
-B.Tech Computer Science & Engineering Student at ABES Engineering College
-</h3>
-
-<p align="center">
-Passionate about Full-Stack Development, Artificial Intelligence, and Building Real-World Applications.
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **ABES Engineering College**
-- 💻 Full-Stack Web Developer
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently learning **Next.js, TypeScript, and System Design**
-- 🧩 Practicing Data Structures & Algorithms in **C++**
-- 🚀 Building impactful projects and continuously improving my development skills
+🎓 B.Tech in Computer Science & Engineering at **ABES Engineering College**
 
----
+💻 Passionate about Full-Stack Development
 
-## 🛠️ Tech Stack
+🤖 Currently exploring AI & Machine Learning
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" />
-</p>
+🚀 Building projects that solve real-world problems
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
-</p>
+📚 Learning something new every day
 
 ---
 
-## 📊 GitHub Stats
+# ⚙️ Tech Stack
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-tau-ochre-97.vercel.app/api?username=pixelrishabh&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-tau-ochre-97.vercel.app/api/top-langs/?username=pixelrishabh&layout=compact&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=pixelrishabh&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pixelrishabh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrishabh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🔥 GitHub Streak
 
-<p align="left">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pixelrishabh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 HackHub | AI-powered hackathon platform |
+| 🛒 Fresh Basket | MERN grocery e-commerce platform |
+| 💰 SmartSpend AI | AI expense management system |
+| 📚 StudyKeda | Learning platform for students |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/pixelrishabh">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.**
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
