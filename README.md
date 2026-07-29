@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,mongodb,mysql,git,github,vscode,vercel" alt="Tech Stack Icons" />
 
 </div>
 
