@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Rishabh Singh Banner" width="100%"/>
+<img src="./banner.png.jpeg" alt="Rishabh Singh Banner" width="100%"/>
 
 # Hi 👋 I'm Rishabh Singh
 
