@@ -1,26 +1,10 @@
-<div align="center">
-  <img src="./banner.png" alt="Rishabh Singh Banner" width="100%"/>
-  
-  <h1>Hi 👋 I'm Rishabh Singh</h1>
-  <h3>Full Stack Developer • B.Tech CSE @ ABES Engineering College</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Rahul%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full%20Stack%20Developer%20|%20Prompt%20Engineer&descAlignY=58"/>
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&color=8A2BE2&lines=Full+Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" alt="Typing SVG" />
-
-  <p>
-    <a href="https://github.com/pixelrishabh">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rishabh-singh-525736329/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:rishabhwork8@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=pixelrishabh&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rishabh+Singh;AI+Developer;Full+Stack+Developer;Prompt+Engineering+Enthusiast;Building+Projects+with+Claude+and+ChatGPT;Always+Learning+Something+New" alt="Typing SVG"/>
+</p>
 ---
 
 ## 💫 About Me
