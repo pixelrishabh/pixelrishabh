@@ -54,9 +54,6 @@ I'm a Computer Science undergraduate passionate about building software that sol
 <div align="center">
   <img src="https://raw.githubusercontent.com/pixelrishabh/pixelrishabh/output/github-contribution-grid-snake.svg"/>
 </div>
-
-> ⚠️ *Note: The snake image only renders once the "snake" GitHub Action is set up on your `pixelrishabh/pixelrishabh` repo (it generates the output branch and SVG automatically).*
-
 ## 📫 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/rishabh-singh-525736329/">
